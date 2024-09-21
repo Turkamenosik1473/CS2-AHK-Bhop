@@ -15,18 +15,18 @@ activation_key := "xButton1"
 Gui, Font, cFFFFFF 
 Gui, Add, Text, x10 y10 w50 h50, Important :
 Gui, Font, cFFFFFF 
-Gui, Add, Text, x70 y10 w200 h50, Make sure put this command in console.
+Gui, Add, Text, x70 y10 w200 h50, STATIC BUNNYHOP on Spacebar
 Gui, Font, c00FF1D 
 Gui, Add, Text, x145 y30 w220 h50, They fix the tick i think
 Gui, Add, Text, x140 y50 w200 h50, no longer need de-subtick binds
-Gui, Add, Text, x145 y70 w200 h50, just use the default one 
+Gui, Add, Text, x145 y70 w200 h50, useless ahk 
 Gui, Add, Text, x145 y90 w200 h50, have fun
-Gui, Add, Text, x145 y110 w300 h50, xxxxxxxxxxxxxxxxxxxxxxxx
-Gui, Add, Text, x145 y130 w200 h50, xxxxxxxxxxxxxxxxxxxxxxxxx
+Gui, Add, Text, x145 y110 w300 h50, -------------------------
+Gui, Add, Text, x145 y130 w200 h50, -------------------------
 Gui, Font, s10 Bold cFF0000
 Gui, Add, Text, x80 y150 w300 h60, hold mouse4 while ingame to activate
 Gui, Font, s10 Bold cFF0000 
-Gui, Add, Text, x290 y9 w120 h50, modified by Ryuu43
+Gui, Add, Text, x290 y9 w120 h50, asscoded by Woyed
 Gui, Font, s12 Bold
 Gui, Color, 000000 ; Background color
 Gui, Margin, 10, 10
